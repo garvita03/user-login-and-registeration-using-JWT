@@ -1,6 +1,14 @@
 # assignment1
 
-Created register, login and update API using node js, express written in JS
-Authentication using jsonwebtoken
+Created register, login and update API using node js, express written in JS //
+Authentication using jsonwebtoken //
+Update API only on one field //
+
+$ to-do $
+Validation and error handling //
+Update on all fields //
+Using TypeORM and PostgreSQL //
+
+
 
 
