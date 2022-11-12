@@ -1,4 +1,4 @@
-# assignment1
+# user-login-and-registeration-using-JWT
 
 Created register, login and update API using node js, express written in JS //
 Authentication using jsonwebtoken //
